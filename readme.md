@@ -8,3 +8,4 @@ Python Advanced
 1. Типізований Python
 1. Модульне тестування
 1. Віртуальні оточення
+1. class Datetime
